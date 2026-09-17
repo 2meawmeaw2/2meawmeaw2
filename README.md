@@ -8,10 +8,9 @@
 
 
 ### Hi , I am Taha 👋.
+<img src="https://github.com/2meawmeaw2/2meawmeaw2/blob/main/env.png" alt="Banner of a developer sitting in front of a desk">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
-</h1>
+
 ### Full stack developer , focused on building intuitive UX.
 
 - 🌱 I’m currently Developing Khotowat (A collection of Islamic oriented apps) . 
