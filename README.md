@@ -8,7 +8,7 @@
 
 
 ### Hi , I am Taha 👋.
-<img src="https://github.com/2meawmeaw2/2meawmeaw2/blob/main/env.png" alt="Banner of a developer sitting in front of a desk">
+<img src="https://github.com/2meawmeaw2/2meawmeaw2/blob/main/Dev.webp" alt="Banner of a developer sitting in front of a desk">
 
 
 ### Full stack developer , focused on building intuitive UX.
